@@ -1,7 +1,7 @@
 #Privacy Policy
 
 
-Developer built the Ukrainian Tractor Driver! app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
+KraGen.Games built the Ukrainian Tractor Driver! app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
 
 
 This privacy policy is used to inform you regarding policies with the collection, use, and 
